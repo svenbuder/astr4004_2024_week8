@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+dimensionality_reduction_and_clustering/
+*.key
